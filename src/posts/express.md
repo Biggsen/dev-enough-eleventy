@@ -2,7 +2,7 @@
 title: Express
 description: Just enough points
 author: Biggs
-date: 2021-07-25T10:40:29.777Z
+date: 2021-07-25T10:45:56.685Z
 tags:
   - created
 ---
